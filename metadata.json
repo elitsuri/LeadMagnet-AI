@@ -1,0 +1,7 @@
+{
+  "name": "LeadMagnet AI",
+  "description": "Smart Lead Capture & Conversion Optimization Platform with real-time tracking and lead scoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
